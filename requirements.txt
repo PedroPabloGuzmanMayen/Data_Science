@@ -6,3 +6,4 @@ scikit-learn
 textblob 
 tensorflow
 networkx
+python-louvain
