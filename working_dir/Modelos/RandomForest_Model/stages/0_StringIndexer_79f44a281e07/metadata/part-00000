@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1760314777901,"sparkVersion":"3.5.1","uid":"StringIndexer_79f44a281e07","paramMap":{"outputCol":"depto_ocu_index","inputCol":"depto_ocu","handleInvalid":"keep"},"defaultParamMap":{"outputCol":"StringIndexer_79f44a281e07__output","stringOrderType":"frequencyDesc","handleInvalid":"error"}}

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1760314716572,"sparkVersion":"3.5.1","uid":"StringIndexer_36eb5f3f6553","paramMap":{"outputCol":"mupio_ocu_index","inputCol":"mupio_ocu","handleInvalid":"keep"},"defaultParamMap":{"stringOrderType":"frequencyDesc","outputCol":"StringIndexer_36eb5f3f6553__output","handleInvalid":"error"}}

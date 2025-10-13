@@ -1,0 +1,32 @@
+# Ignorar archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar notebooks locales (opcional si quieres copiarlas)
+*.ipynb_checkpoints
+*.ipynb
+
+# Ignorar entornos virtuales
+venv/
+.env/
+
+# Ignorar datos grandes
+data/
+*.csv
+*.parquet
+*.json
+
+# Ignorar modelos entrenados
+Modelos/
+
+# Ignorar logs y archivos temporales
+logs/
+*.log
+tmp/
+*.tmp
+
+# Ignorar configuraciones locales de sistema
+.DS_Store
+.idea/
+.vscode/
